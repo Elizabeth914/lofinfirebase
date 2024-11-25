@@ -1,3 +1,5 @@
+# Mira la implementación del proyecto en Youtube
+Aplicación básica de React Native donde se integra tecnologias como Firebase para logearse o registrarse. [Video](https://youtu.be/_Uw7HLaxiRU)
 # Welcome to your Expo app 👋
 
 This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
